@@ -20,5 +20,6 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Screencast
+
+![Screencast](https://github.com/m2007/my-timer/screencast/screencast.gif)

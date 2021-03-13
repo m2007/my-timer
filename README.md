@@ -22,4 +22,4 @@ npm run lint
 
 ### Screencast
 
-![Screencast](https://github.com/m2007/my-timer/screencast/screencast.gif)
+![Screencast](https://github.com/m2007/my-timer/blob/master/screencast/screencast.gif)
